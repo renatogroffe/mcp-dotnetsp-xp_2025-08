@@ -4,3 +4,9 @@ Slides e conteúdos de apresentação sobre uso de .NET + MCP. Palestra realizad
 Exemplo utilizado na apresentacão: https://github.com/renatogroffe/dotnet9-mcp-fakedata-sqlserver
 
 MCP do SQL Server com instruções para uso do mesmo via package NuGet: https://github.com/renatogroffe/sqlserver-mcp-dotnet-tool-scripts
+
+MCP para geração de dados fake (Empresas e Contatos) em uma base do SQL Server e também com instruções para uso do mesmo via package NuGet - inclui Docker Compose para a criação do ambiente: https://github.com/renatogroffe/dotnet9-mcp-fakedata-sqlserver
+
+MCP Hub: https://hub.docker.com/u/mcp
+
+Model Context Protocol - Site oficial: https://modelcontextprotocol.io/docs/getting-started/intro
